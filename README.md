@@ -33,3 +33,6 @@
 - 시계열 예측 기법 추가 (Prophet, LSTM 등)
 - 품목/지역 다변화
 - Streamlit을 통한 웹 인터페이스 배포
+
+## 노션 링크
+- [farmcast](https://honorable-decision-36e.notion.site/1f8465fdcd08806aa06dfd8f0f455140)
