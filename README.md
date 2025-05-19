@@ -13,21 +13,7 @@
 - **분석 품목**: 배추, 무 (확장 가능)
 - **분석 단위**: 월별 기준
 
-## 📁 프로젝트 구조
-```
-farmcast/
-├── data/                  # 수집한 CSV 데이터
-├── notebooks/             # Jupyter 분석 노트북
-│   ├── 01_EDA.ipynb
-│   ├── 02_Modeling.ipynb
-│   └── 03_Visualization.ipynb
-├── models/                # 학습된 모델 파일 (선택)
-├── output/                # 시각화, 예측 결과 등
-├── README.md
-└── requirements.txt
-```
-
-## 🔍 사용 기술
+## 사용 기술
 
 | 분류 | 사용 도구 |
 |------|-----------|
